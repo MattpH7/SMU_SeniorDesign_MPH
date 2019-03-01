@@ -1,0 +1,18 @@
+Senior Design Journal/Log
+
+Journal Entry #1: 3/1/2019
+1. Briefly describe your project. (About 2 sentences.)
+  I would be assisting the Washington State Liquor and Cannabis Board with their development and testing needs.
+  The major project they have been working on is the LEAF data systems with MJ Freeway. 
+  This software tracks marijuana from seed-to-sale and is used for manifests and tracking producers, processors and retailers in the marijuana business in Washington state. 
+  
+2. What is your particular role in the project?
+  My role will not be established until I start working on the project. 
+  I know the lead developer and I would be assisting him their software development needs.
+
+3. What have you done personally in the two weeks leading up to Feb. 24?
+  I have reached out to the LCB and made contact with the project manager of the development team. 
+  
+4. Describe any significant progress made by the team as a whole in this time period.
+  After making contact, I was told to check in with them when the semester nears its end so I will be able to participate full-time with their projects.
+  
